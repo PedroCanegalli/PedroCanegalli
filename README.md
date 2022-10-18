@@ -5,7 +5,7 @@ About me:
 <div display="flex" align="center">
   
 <img src="https://media0.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif?cid=790b7611c3f07bf4c5836b2f48123f85797c7bc89d29ab3a&rid=giphy.gif&ct=g" width="200" height="200" alt="html5"/>
-<img src="https://external-preview.redd.it/N1hQfljSltuSXwKmElWYRo_24AhVEuIXFmI7B8EjfEM.gif?format=mp4&s=3a48da92c366707376e1d980d106eb9fdd3bed42" width="300" height="200" alt="html5"/>  
+<img src="https://64.media.tumblr.com/a6234e709febbe69aa305fdf1fdb7267/tumblr_nt8lgjFlUu1u7leb2o1_400.gifv" width="250" height="200" alt="html5"/>  
   
 </div>
   
