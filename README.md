@@ -36,7 +36,9 @@ About me:
 <h3 align="center">GitHub Stats & Most Used Lenguages</h3>
 
 <p display="flex">
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PedroCanegalli&show_icons=true&theme=dark&hide=prs,issues)](https://github.com/PedroCanegalli/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCanegalli&layout=compact&theme=dark&)](https://github.com/PedroCanegalli/github-readme-stats)
+  
 </p>
