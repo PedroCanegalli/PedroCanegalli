@@ -10,9 +10,15 @@ About me:
 
 <h3>Languages and Tools:computer:</h3>
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40" height="40"/>
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link)]() [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link)]() [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link)]() [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link)]() [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link)]() [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link)]() [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link)]() [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link)]()
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" width="50" height="50"/>
 
 <h3 align="center">GitHub Stats & Most Used Lenguages</h3>
 
