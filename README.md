@@ -12,6 +12,4 @@ About me:
 
 <h3 align="center">GitHub Stats & Most Used Lenguages</h3>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaryKuttel&show_icons=true&locale=en&theme=aura" alt="Mary´s Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaryKuttel&show_icons=true&locale=en&layout=compact&theme=aura" alt="Mary´s Lenguages"></p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PedroCanegalli&show_icons=true&theme=dark)](https://github.com/PedroCanegalli/github-readme-stats)
