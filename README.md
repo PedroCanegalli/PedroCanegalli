@@ -3,7 +3,7 @@ About me:
 <h2 align="center">Full Stack Developer from Argentina</h2>
 
 <div align="center">
-<img src="https://media0.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif?cid=790b7611c3f07bf4c5836b2f48123f85797c7bc89d29ab3a&rid=giphy.gif&ct=g" alt="html5"/>
+<img src="https://media0.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif?cid=790b7611c3f07bf4c5836b2f48123f85797c7bc89d29ab3a&rid=giphy.gif&ct=g" width="100" height="100" alt="html5"/>
 </div>
   
 <h3 align="left">Connect with me:calling:</h3>
