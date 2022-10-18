@@ -2,7 +2,7 @@ About me:
 <h1 align="center">¡Hi :wave:, I'm Pedro Canegalli!</h1>
 <h2 align="center">Full Stack Developer from Argentina</h2>
 
-<img src="https://external-preview.redd.it/N1hQfljSltuSXwKmElWYRo_24AhVEuIXFmI7B8EjfEM.gif?format=mp4&s=3a48da92c366707376e1d980d106eb9fdd3bed42"/>
+<img src="https://external-preview.redd.it/N1hQfljSltuSXwKmElWYRo_24AhVEuIXFmI7B8EjfEM.gif?format=mp4&s=3a48da92c366707376e1d980d106eb9fdd3bed42.gif"/>
 
 <h3 align="left">Connect with me:calling:</h3>
 <div> 
@@ -25,7 +25,7 @@ About me:
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50" height="50"/>
 </p>
 
-<h3>Próximamente</h3>
+<h3 align="center">Próximamente</h3>
 <p display="flex" align="center">
 <img src="https://img.icons8.com/color/344/python.png" widht="50" height="50"/>
 <img src="https://img.icons8.com/color/344/java-coffee-cup-logo.png" widht="50" height="50"/>
