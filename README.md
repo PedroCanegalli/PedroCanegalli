@@ -8,3 +8,10 @@ About me:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+
+<h3 align="center">GitHub Stats & Most Used Lenguages</h3>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaryKuttel&show_icons=true&locale=en&theme=aura" alt="Mary´s Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaryKuttel&show_icons=true&locale=en&layout=compact&theme=aura" alt="Mary´s Lenguages"></p>
