@@ -10,6 +10,7 @@ About me:
 
 <h3>Languages and Tools:computer:</h3>
 
+<p display="flex">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="50" height="50"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"/>
@@ -18,7 +19,9 @@ About me:
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png" width="50" height="50"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="50" height="50"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" width="50" height="50"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" width="60" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50" height="50"/>
+</p>
 
 <h3 align="center">GitHub Stats & Most Used Lenguages</h3>
 
